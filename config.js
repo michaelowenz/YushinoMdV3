@@ -39,57 +39,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285172446692', 'leviXd', true],
-['6282131369002', 'victor bot', true]
+['6283169566533', 'Michael', true],
+['6281328901038', 'Gading', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282131369002'
-global.nomorown = '6285172446692'
-global.nomorown1 = '6285172446692'
-global.nomorown2 = '6282131369002'
+global.nomorbot = '6282123445389'
+global.nomorown = '6283169566533'
+global.nomorown1 = '6283169566533'
+global.nomorown2 = '6281328901038'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By leviXd'
-global.namebot = 'victor bot'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 victor md'
+global.author = 'Created By Michael'
+global.namebot = 'MizBot'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Miz md'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
-global.wm2 = 'victor bot '
+global.wm2 = 'Miz bot '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `victor 𝐗 leviXd`
-global.stickpack = 'victor 𝐗 leviXd'
-global.stickauth = `© Victor MD`
+global.titlebot = `Michael 𝐗 Miz`
+global.stickpack = 'Michael 𝐗 Miz`
+global.stickauth = `© Miz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'victor bot'
-global.nameown2 = 'leviXd'
+global.nameown1= 'Michael'
+global.nameown2 = 'Gadingagani'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
-global.lynk = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1'
+global.Linkgc = 'https://chat.whatsapp.com/C7e0YoXBqQ78lRsWuzwQSH'
+global.lynk = 'https://chat.whatsapp.com/C7e0YoXBqQ78lRsWuzwQSH'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
+global.sgh = 'https://github.com/michaelowenz' //github
+global.sgc = 'https://chat.whatsapp.com/C7e0YoXBqQ78lRsWuzwQSH' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085172446692'
+global.pdana = '083169566533'
 global.povo = '-'
-global.pgopay = '085172446692'
+global.pgopay = '083169566533'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '083169566533'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
