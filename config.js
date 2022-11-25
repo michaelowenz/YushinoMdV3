@@ -44,10 +44,10 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282123445389'
+global.nomorbot = '6282128954660'
 global.nomorown = '6283169566533'
-global.nomorown1 = '6283169566533'
-global.nomorown2 = '6281328901038'
+global.nomorown1 = '6281328901038'
+global.nomorown2 = '-'
 global.nomorwa = '0'
 
 
@@ -77,9 +77,9 @@ global.lynk = 'https://chat.whatsapp.com/C7e0YoXBqQ78lRsWuzwQSH'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
+global.sig = '-'
 global.sgh = 'https://github.com/michaelowenz' //github
-global.sgc = 'https://chat.whatsapp.com/C7e0YoXBqQ78lRsWuzwQSH' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/K5GDxsz2evX9vWkkSASjc4' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-'
 
